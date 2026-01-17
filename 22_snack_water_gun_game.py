@@ -60,3 +60,5 @@ elif(result):
 
 else:
     print("You lose!")
+
+print()
